@@ -112,7 +112,6 @@ python alerting/alert_watcher.py
 streamlit run dashboard/dashboard.py
 ```
 
-Full step-by-step setup, including Windows-specific fixes (Java/Spark version pinning, `winutils.exe`, port conflicts) is documented in [`docs/WALKTHROUGH.md`](docs/WALKTHROUGH.md).
 
 ## What This Project Demonstrates
 
